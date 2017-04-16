@@ -1,0 +1,301 @@
+<xml>
+   <TTGlyph name="A" xMin="0" yMin="0" xMax="1557" yMax="1365">
+      <contour>
+        <pt x="967" y="1365" on="1"/>
+        <pt x="863" y="1247" on="1"/>
+        <pt x="1027" y="811" on="1"/>
+        <pt x="1067" y="833" on="1"/>
+        <pt x="919" y="1227" on="1"/>
+        <pt x="1025" y="1349" on="1"/>
+        <pt x="1051" y="1338" on="1"/>
+        <pt x="950" y="1221" on="1"/>
+        <pt x="1090" y="848" on="1"/>
+        <pt x="1102" y="857" on="0"/>
+        <pt x="1104" y="859" on="1"/>
+        <pt x="1137" y="887" on="1"/>
+        <pt x="1167" y="911" on="0"/>
+        <pt x="1175" y="921" on="1"/>
+        <pt x="1201" y="807" on="0"/>
+        <pt x="1255" y="717" on="1"/>
+        <pt x="1226" y="719" on="0"/>
+        <pt x="1213" y="719" on="1"/>
+        <pt x="1118" y="719" on="0"/>
+        <pt x="1074" y="689" on="1"/>
+        <pt x="1255" y="198" on="1"/>
+        <pt x="1405" y="82" on="1"/>
+        <pt x="900" y="82" on="1"/>
+        <pt x="1038" y="198" on="1"/>
+        <pt x="927" y="490" on="1"/>
+        <pt x="817" y="379" on="0"/>
+        <pt x="758" y="279" on="1"/>
+        <pt x="735" y="285" on="1"/>
+        <pt x="794" y="383" on="0"/>
+        <pt x="911" y="504" on="1"/>
+        <pt x="919" y="514" on="1"/>
+        <pt x="900" y="558" on="1"/>
+        <pt x="781" y="459" on="0"/>
+        <pt x="703" y="328" on="1"/>
+        <pt x="685" y="357" on="1"/>
+        <pt x="633" y="440" on="0"/>
+        <pt x="552" y="546" on="1"/>
+        <pt x="542" y="558" on="1"/>
+        <pt x="465" y="387" on="0"/>
+        <pt x="465" y="280" on="1"/>
+        <pt x="465" y="217" on="0"/>
+        <pt x="508" y="130" on="0"/>
+        <pt x="590" y="28" on="1"/>
+        <pt x="597" y="19" on="0"/>
+        <pt x="612" y="0" on="1"/>
+        <pt x="72" y="0" on="1"/>
+        <pt x="52" y="27" on="1"/>
+        <pt x="561" y="27" on="1"/>
+        <pt x="544" y="48" on="1"/>
+        <pt x="478" y="128" on="0"/>
+        <pt x="437" y="217" on="0"/>
+        <pt x="437" y="277" on="1"/>
+        <pt x="437" y="379" on="0"/>
+        <pt x="520" y="581" on="1"/>
+        <pt x="476" y="627" on="1"/>
+        <pt x="463" y="595" on="0"/>
+        <pt x="443" y="533" on="1"/>
+        <pt x="410" y="431" on="1"/>
+        <pt x="383" y="349" on="0"/>
+        <pt x="383" y="295" on="1"/>
+        <pt x="383" y="239" on="0"/>
+        <pt x="421" y="165" on="0"/>
+        <pt x="482" y="101" on="1"/>
+        <pt x="488" y="95" on="0"/>
+        <pt x="500" y="82" on="1"/>
+        <pt x="0" y="82" on="1"/>
+        <pt x="143" y="156" on="0"/>
+        <pt x="310" y="406" on="0"/>
+        <pt x="392" y="667" on="1"/>
+        <pt x="396" y="681" on="1"/>
+        <pt x="343" y="726" on="0"/>
+        <pt x="243" y="736" on="1"/>
+        <pt x="298" y="818" on="0"/>
+        <pt x="328" y="907" on="1"/>
+        <pt x="342" y="894" on="0"/>
+        <pt x="345" y="891" on="1"/>
+        <pt x="390" y="849" on="1"/>
+        <pt x="413" y="827" on="0"/>
+        <pt x="445" y="804" on="1"/>
+        <pt x="463" y="848" on="1"/>
+        <pt x="451" y="858" on="1"/>
+        <pt x="401" y="902" on="0"/>
+        <pt x="367" y="929" on="1"/>
+        <pt x="358" y="936" on="1"/>
+        <pt x="374" y="958" on="1"/>
+        <pt x="427" y="923" on="0"/>
+        <pt x="476" y="877" on="1"/>
+        <pt x="612" y="1251" on="1"/>
+        <pt x="506" y="1365" on="1"/>
+      </contour>
+      <contour>
+        <pt x="720" y="1044" on="1"/>
+        <pt x="610" y="754" on="1"/>
+        <pt x="619" y="744" on="0"/>
+        <pt x="620" y="742" on="1"/>
+        <pt x="661" y="696" on="1"/>
+        <pt x="694" y="660" on="0"/>
+        <pt x="745" y="584" on="1"/>
+        <pt x="755" y="569" on="1"/>
+        <pt x="798" y="623" on="0"/>
+        <pt x="857" y="676" on="1"/>
+      </contour>
+      <contour>
+        <pt x="675" y="1160" on="1"/>
+        <pt x="516" y="740" on="1"/>
+        <pt x="592" y="662" on="0"/>
+        <pt x="647" y="586" on="1"/>
+        <pt x="693" y="522" on="1"/>
+        <pt x="694" y="521" on="0"/>
+        <pt x="703" y="509" on="1"/>
+        <pt x="712" y="518" on="0"/>
+        <pt x="713" y="520" on="1"/>
+        <pt x="727" y="537" on="1"/>
+        <pt x="730" y="541" on="0"/>
+        <pt x="738" y="550" on="1"/>
+        <pt x="668" y="658" on="0"/>
+        <pt x="575" y="745" on="1"/>
+        <pt x="703" y="1083" on="1"/>
+      </contour>
+      <contour>
+        <pt x="1263" y="873" on="1"/>
+        <pt x="1285" y="783" on="0"/>
+        <pt x="1373" y="626" on="1"/>
+        <pt x="1351" y="629" on="0"/>
+        <pt x="1348" y="629" on="1"/>
+        <pt x="1267" y="636" on="1"/>
+        <pt x="1212" y="641" on="0"/>
+        <pt x="1187" y="641" on="1"/>
+        <pt x="1183" y="641" on="0"/>
+        <pt x="1167" y="640" on="1"/>
+        <pt x="1334" y="197" on="1"/>
+        <pt x="1557" y="0" on="1"/>
+        <pt x="978" y="0" on="1"/>
+        <pt x="959" y="27" on="1"/>
+        <pt x="1490" y="27" on="1"/>
+        <pt x="1310" y="186" on="1"/>
+        <pt x="1132" y="657" on="1"/>
+        <pt x="1166" y="666" on="0"/>
+        <pt x="1210" y="666" on="1"/>
+        <pt x="1264" y="666" on="0"/>
+        <pt x="1330" y="657" on="1"/>
+        <pt x="1318" y="679" on="1"/>
+        <pt x="1254" y="797" on="0"/>
+        <pt x="1232" y="892" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 65 values pushed */
+          137 134 130 129 128 127 126 125 124 123 116 114 113 112 110 105 100 99 98 96 90 89 88 87 86
+          84 83 79 78 73 71 69 65 64 59 54 53 51 47 46 45 44 37 33 31 30 27 26 24 23
+          22 21 20 19 15 13 8 7 6 5 4 3 2 1 0
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[1]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[1]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          MDAP[0]	/* MoveDirectAbsPt */
+          PUSHB[ ]	/* 7 values pushed */
+          0 0 39 8 51 48 25
+          SSW[ ]	/* SetSingleWidth */
+          SSWCI[ ]	/* SetSingleWidthCutIn */
+          SRP0[ ]	/* SetRefPoint0 */
+          MIRP[01101]	/* MoveIndirectRelPt */
+          SSW[ ]	/* SetSingleWidth */
+          SSWCI[ ]	/* SetSingleWidthCutIn */
+          SVTCA[0]	/* SetFPVectorToAxis */
+          NPUSHB[ ]	/* 19 values pushed */
+          0 0 1 128 4 127 4 0 0 88 0 47 4 46 4 0 0 48 25
+          SSW[ ]	/* SetSingleWidth */
+          SSWCI[ ]	/* SetSingleWidthCutIn */
+          SZP0[ ]	/* SetZonePointer0 */
+          SRP0[ ]	/* SetRefPoint0 */
+          MIRP[01101]	/* MoveIndirectRelPt */
+          MIRP[01101]	/* MoveIndirectRelPt */
+          SRP0[ ]	/* SetRefPoint0 */
+          MDRP[01101]	/* MoveDirectRelPt */
+          MDRP[01101]	/* MoveDirectRelPt */
+          SRP0[ ]	/* SetRefPoint0 */
+          MIRP[01101]	/* MoveIndirectRelPt */
+          MIRP[01101]	/* MoveIndirectRelPt */
+          SZP0[ ]	/* SetZonePointer0 */
+          SSW[ ]	/* SetSingleWidth */
+          SSWCI[ ]	/* SetSingleWidthCutIn */
+          PUSHB[ ]	/* 2 values pushed */
+          45 44
+          MDAP[1]	/* MoveDirectAbsPt */
+          ALIGNRP[ ]	/* AlignRelativePt */
+          PUSHB[ ]	/* 5 values pushed */
+          65 64 22 21 3
+          SLOOP[ ]	/* SetLoopVariable */
+          MDAP[1]	/* MoveDirectAbsPt */
+          ALIGNRP[ ]	/* AlignRelativePt */
+          PUSHB[ ]	/* 2 values pushed */
+          126 125
+          MDAP[1]	/* MoveDirectAbsPt */
+          ALIGNRP[ ]	/* AlignRelativePt */
+          NPUSHB[ ]	/* 35 values pushed */
+          17 1 112 110 105 100 98 96 90 86 79 78 71 69 54 53 37 33 31 30 27 26 24 23 20
+          19 17 15 8 3 2 29 2 0 21
+          SRP1[ ]	/* SetRefPoint1 */
+          SZP1[ ]	/* SetZonePointer1 */
+          SRP2[ ]	/* SetRefPoint2 */
+          SLOOP[ ]	/* SetLoopVariable */
+          IP[ ]	/* InterpolatePts */
+          SZP1[ ]	/* SetZonePointer1 */
+          MDAP[1]	/* MoveDirectAbsPt */
+          NPUSHB[ ]	/* 18 values pushed */
+          1 113 99 89 87 84 83 73 13 7 6 5 4 1 13 88 2 0
+          SZP0[ ]	/* SetZonePointer0 */
+          SRP1[ ]	/* SetRefPoint1 */
+          SRP2[ ]	/* SetRefPoint2 */
+          SLOOP[ ]	/* SetLoopVariable */
+          IP[ ]	/* InterpolatePts */
+          SZP0[ ]	/* SetZonePointer0 */
+          NPUSHB[ ]	/* 15 values pushed */
+          132 1 137 134 132 130 129 124 123 116 114 9 2 0 127
+          SRP1[ ]	/* SetRefPoint1 */
+          SZP1[ ]	/* SetZonePointer1 */
+          SRP2[ ]	/* SetRefPoint2 */
+          SLOOP[ ]	/* SetLoopVariable */
+          IP[ ]	/* InterpolatePts */
+          SZP1[ ]	/* SetZonePointer1 */
+          MDAP[1]	/* MoveDirectAbsPt */
+          PUSHB[ ]	/* 7 values pushed */
+          0 0 121 4 132 48 25
+          SSW[ ]	/* SetSingleWidth */
+          SSWCI[ ]	/* SetSingleWidthCutIn */
+          SRP0[ ]	/* SetRefPoint0 */
+          MIRP[01101]	/* MoveIndirectRelPt */
+          SSW[ ]	/* SetSingleWidth */
+          SSWCI[ ]	/* SetSingleWidthCutIn */
+          IUP[1]	/* InterpolateUntPts */
+          IUP[0]	/* InterpolateUntPts */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+
+    </xml>
