@@ -30,4 +30,7 @@ for c in contours:
 				bob.pendown()
 
 
-wn.mainloop()
+turtle.done()
+
+
+
