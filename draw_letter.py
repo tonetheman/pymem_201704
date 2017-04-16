@@ -12,6 +12,8 @@ wn = turtle.Screen()
 bob = turtle.Turtle()
 bob.penup()
 
+Y_OFF = -300
+X_OFF = -300
 contours = doc.getElementsByTagName("contour")
 for c in contours:
 	pts = c.getElementsByTagName("pt")
@@ -22,7 +24,7 @@ for c in contours:
 		print(x,y,on)
 
 		if int(on)==1:
-			bob.goto(int(x)*0.25,int(y)*0.25)
+			bob.goto(X_OFF + int(x)*0.25,Y_OFF+int(y)*0.25)
 			if pendown == False:
 				pendown = True
 				bob.pendown()
