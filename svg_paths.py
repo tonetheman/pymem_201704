@@ -24,7 +24,6 @@ def parse_path(ts):
 			break
 		if cc == "a" or cc == "A" or cc == "m" or cc == "M" or cc == "z" or cc =="c":
 			if s!="":
-				print "DBG: s",s
 				res.append(int(s))
 				s = ""
 			res.append(cc)
@@ -48,7 +47,8 @@ def parse_path(ts):
 		index = index + 1
 
 	print "done with gathering", s
-	res.append(int(s))
+	if s!="":
+		res.append(int(s))
 	return res 
 
 def parse_multiple_numbers(ts):
