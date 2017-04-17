@@ -1,6 +1,9 @@
 from contextlib import contextmanager
 
 
+#example with nothing in it
+# shows the concept only
+
 # notes here must use yield to return a value
 @contextmanager
 def open_selenium_only():

@@ -1,5 +1,7 @@
 from contextlib import closing 
 
+# If you have something (aka any class that can close)
+# use a built in or make your own
 class SomeCoolClass:
 	def __init__(self):
 		print "constructor on SomeCoolClass called"	

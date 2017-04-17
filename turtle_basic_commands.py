@@ -1,4 +1,5 @@
 
+# NOT object oriented
 import turtle
 
 print("pos", turtle.position())

@@ -1,6 +1,9 @@
 
 import turtle
 
+# other stuff you can do with the window
+# NOT object oriented
+
 # set the title on the window
 turtle.title("my title")
 

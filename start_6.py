@@ -1,5 +1,8 @@
 import turtle
 
+# NOT Object oriented
+# shows color
+
 # set the shape that represents the turtle
 turtle.shape("turtle")
 
