@@ -25,3 +25,6 @@ draw_image.py - this reads a png and draws the image with the turtle
 * context managers
 examples here are ct_*
 
+* slide deck
+http://slides.com/tonycolston-1/turtles-and-context-manager#/
+
