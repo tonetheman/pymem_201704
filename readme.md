@@ -2,6 +2,8 @@
 Some good links
 http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html
 
+- turtle_basic_commands.py
+- turtle_basic_commands_part2.py
 - start_1.py - just how to get the turtle moving
 - start_2.py - move right and forward
 - start_3.py - draw a star, found this example online
@@ -17,4 +19,9 @@ To generate the ttx file do this
 
 draw_letter.py - The last example is using turtle to draw the letter A. I used the font Alger found on Windows and pulled the path information from the ttx file.
 
+draw_image.py - this reads a png and draws the image with the turtle
+
+
+* context managers
+examples here are ct_*
 
